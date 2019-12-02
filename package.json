@@ -1,6 +1,6 @@
 {
   "name": "packed-dependencies",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Bundles your dependencies",
   "main": "lib",
   "bin": "bin.js",
